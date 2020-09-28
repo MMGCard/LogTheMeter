@@ -2,10 +2,11 @@
 
 ### Reference Websites
 
+https://medium.com/@oviyum/digital-meter-reading-using-cv-ml-53b71f25ed91
+
 https://www.mkompf.com/cplus/emeocv.html
 
-
-
+https://nanonets.com/blog/sub-meter-reading-using-deep-learning/
 
 
 
