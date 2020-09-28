@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Harvest the Information Available at Existing Meters
 
 You can use the [editor on GitHub](https://github.com/MMGCard/LogTheMeter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
