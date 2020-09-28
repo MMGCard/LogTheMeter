@@ -6,6 +6,9 @@
 
 [Medium Article - Integrating my Neptune Water Meter with HomeAssistant](https://medium.com/@trumpetgod/integrating-my-neptune-water-meter-with-home-assistant-896712a8c893)
 
+[TDSc Article - Experiments in Classifying Residential Water Flow](https://medium.com/@trumpetgod/integrating-my-neptune-water-meter-with-home-assistant-896712a8c893)
+
+
 https://www.mkompf.com/cplus/emeocv.html
 
 https://nanonets.com/blog/sub-meter-reading-using-deep-learning/
